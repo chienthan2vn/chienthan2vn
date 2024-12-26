@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Miketsu</h1>
-<h3 align="center">Điều quan trọng là trái tim kiên cường</h3>
+<h1 align="center">Hi 👋, I'm Merlin</h1>
+<h3 align="center">Merlin Merlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chienthan2vn&label=Profile%20views&color=0e75b6&style=flat" alt="chienthan2vn" /> </p>
 
